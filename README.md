@@ -23,5 +23,5 @@ Myself Dhivakar.T created this simple **Spring Boot** project demonstrating a ba
 ---
 
 1. **Clone the repo**
-   git clone https://github.com/divat/spring-boot-thymeleaf-crud.git
+   [git clone https://github.com/divat/spring-boot-thymeleaf-crud.git](https://github.com/divat/springmvc-thymeleaf.git)
    cd spring-boot-thymeleaf-crud
