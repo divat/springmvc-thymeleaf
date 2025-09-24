@@ -1,4 +1,4 @@
-# Spring Boot Thymeleaf CRUD Operations Demo Mini Project
+# Spring Boot + Thymeleaf Demo 
 
 Myself Dhivakar.T created this simple **Spring Boot** project demonstrating a basic CRUD (Create, Read, Update, Delete) application using **Thymeleaf** as the view template engine.
 
